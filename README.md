@@ -1,7 +1,7 @@
 # Live Nation Application UI
-User Interfacing for a ticketmaster/live-nation style application.
+User Interfacing for a ticketmaster/live-nation style application. Created for a 24hr project challenge.
 
-**The user interfacing was created on Figma which can be found [here](https://www.figma.com/proto/5oAkoB4gOaqZIPPo4cjF8v/Live-Nation-Mock-Up?node-id=1-2&node-type=canvas&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).**
+**The user interfacing was created on Figma which can be found [here](https://www.figma.com/proto/5oAkoB4gOaqZIPPo4cjF8v/Live-Nation-Mock-Up?node-id=1-2&p=f&t=VP4C2oLo3uroyvn7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1).**
 
 
 **Buying Resell Tickets UI Design Features**
